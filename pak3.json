@@ -5,7 +5,7 @@
   },
   "Files": [
     {
-      "PakName": "pakchunk4651-WindowsClient",
+      "PakName": "pakchunk4651-WindowsClient.ucas",
       "SearchHex": "06 F8 50 C7 B4 FB 48 53 D9 EF 39 FB 4D 33 6C C4",
       "ReplaceHex": "45 45 45 45 45 45 "
     }
