@@ -1,0 +1,24 @@
+{
+    "DownloadZip": {
+      "FileUrl": "https://github.com/Landmark1218/soudayo/raw/refs/heads/main/pakchunk7883optional-WindowsClient%20.zip",
+      "DownloadFileName": "pakchunk7883optional-WindowsClient.zip"
+    },
+    "Files": [
+      {
+        "PakName": "pakchunk100-WindowsClient_s1.ucas",
+        "SearchHex": "8C 02 04 28 FA 00 00 00 00 9D 04 00 00 0D 00 99 0F 1A 22 04 80 32 09 00 00",
+        "ReplaceHex": "8C 02 04 04 FA 00 00 00 00 2F 04 00 00 0D 00 99 FF 1B 22 04 80 C4 08 00 00"
+      },
+      {
+        "PakName": "pakchunk100-WindowsClient.utoc",
+        "SearchHex": "00 18 EE 54 01 2D 04 00 7F 06 00 01",
+        "ReplaceHex": "00 18 EE 54 01 09 04 00 11 06 00 01"
+    },
+    {
+      "PakName": "pakchunk100-WindowsClient.utoc",
+      "SearchHex": "05 57 3F 00 00 00 00 00 06 7F 05 AC",
+      "ReplaceHex": "05 57 3F 00 00 00 00 00 06 11 05 AC"
+    }
+      
+    ]
+  }
