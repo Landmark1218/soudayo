@@ -1,0 +1,13 @@
+{
+  "DownloadZip": {
+    "FileUrl": "https://github.com/Landmark1218/soudayo/raw/refs/heads/main/plugin%20(1).zip",
+    "DownloadFileName": "plugin.zip"
+  },
+  "Files": [
+    {
+      "PakName": "pakchunk4651-WindowsClient.ucas",
+      "SearchHex": "AC DB 19 5A C0 36 EB 78 9F E6 46 E8 17 EA 64 AC",
+      "ReplaceHex": "45 45 45 45 45 45 19 19 36"
+    }
+  ]
+}
